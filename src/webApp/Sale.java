@@ -5,4 +5,7 @@ public class Sale {
     // 20% off
 
     // more sale items
+    // added holiday sales
+    // deals
+
 }
